@@ -1,0 +1,6 @@
+{
+  "name": "PrintPoint Kiosk Cashier",
+  "description": "Mobile-first owner cashier & GCash payment approval app to monitor and remotely approve printing at PrintPoint kiosks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
